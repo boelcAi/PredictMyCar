@@ -4,6 +4,9 @@
 The application uses AI to calculate the required carpool size if all private cars are banned. 
 <br/>
 <br/>
+Car sharing is a very good solution for saving resources. And with the use of AI, it is possible that everyone can still get a car when they need one. 
+<br/>
+<br/>
 To show how many vehicles can be saved by creating carpools, people are first generated and listed by the computer, according to statistical specifications.
 <br/>
 ![image](https://github.com/boelcAi/PredictMyCar/assets/76411811/e0a76d34-01f9-4a66-936f-ea157b6bb0d9)
